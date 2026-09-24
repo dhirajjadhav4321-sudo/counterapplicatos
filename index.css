@@ -1,0 +1,18 @@
+body{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:100px;
+    flex-wrap: wrap;
+}
+#dhiraj{
+    background-color: aqua;
+}
+#dhirajjadhav{
+    height: 100px;;
+    width:100px;
+    border: 2px dotted black;
+}
