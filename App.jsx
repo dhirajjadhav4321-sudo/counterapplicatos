@@ -10,7 +10,7 @@ const App = () => {
 
   
     <div id="dhirajjadhav">
-   count: {count}
+   counter: {count}
    <br></br>
         <button  id="dhiraj"onClick={handleclick}>increment</button>
     </div>
